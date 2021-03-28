@@ -1,0 +1,28 @@
+{
+  "name": "Note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.17.1",
+    "start": "^5.1.0",
+    "uuid": "^8.3.2",
+    "y": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaquilleOriol/Note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaquilleOriol/Note-taker/issues"
+  },
+  "homepage": "https://github.com/ShaquilleOriol/Note-taker#readme"
+}
